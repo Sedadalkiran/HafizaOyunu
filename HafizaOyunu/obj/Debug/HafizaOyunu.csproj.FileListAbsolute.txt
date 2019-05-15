@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.exe
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.pdb
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.exe
+c:\users\dell\documents\visual studio 2017\Projects\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.pdb
+C:\Users\dell\Documents\Visual Studio 2017\Projects\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.Form2.resources
+C:\Users\dell\Documents\Visual Studio 2017\Projects\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.Form3.resources
